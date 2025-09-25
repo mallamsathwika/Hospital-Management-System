@@ -17,7 +17,7 @@ Before running the project, ensure you have the following installed:
 #### **1️⃣ Clone the Repository**
 ```bash
 https://github.com/mallamsathwika/Hospital-Management-System.git
-cd HMIS
+cd Hospital-Management-System
 ```
 
 #### **2️⃣ Install Dependencies**
