@@ -16,7 +16,7 @@ Before running the project, ensure you have the following installed:
 ### **🚀 How to Run the Project**
 #### **1️⃣ Clone the Repository**
 ```bash
-git clone https://github.com/SimonShangpliang/HMIS.git
+https://github.com/mallamsathwika/Hospital-Management-System.git
 cd HMIS
 ```
 
